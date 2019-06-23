@@ -11,7 +11,7 @@
 ##
 ## See spacemacs/layers/+distributions/spacemacs-docker/README.org
 
-FROM alepeh/emacs25-lucid
+FROM alepeh/emacs26-lucid
 
 MAINTAINER JAremko <w3techplaygound@gmail.com>
 
